@@ -1,3 +1,3 @@
 cirinya =
-> dia terlemah tapi bisa jadi terkuat dengan syarat bisa sampai garis pertahanan paling belakang lawan
+> dia terlemah tapi bisa jadi terkuat dengan syarat bisa sampai garis pertahanan paling belakang lawan, karena bisa berubah jadi patih atau menteri
 > bergerak satu atau dua langkah kedepan diawal permainan dan jika sudah mencapai garis tengah dia hanya satu langkah saja pergerakkannya, kecuali makan musuh dia hanya bisa serong kanan atau kiri dan itu satu langkah/kotak, dan kecuali lagi bisa makan pion lawan yang bergerak dua langkah kedepan, dan itupun berlakunya ketika baru saja lawan menggerakkannya
